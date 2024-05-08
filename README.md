@@ -1,7 +1,6 @@
-# De-Dieu(@hidden) MBOU
+# Hi 👋, De-Dieu(@hidden) MBOU
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=29&pause=1000&random=false&width=900&lines=Full+Stack+Software+Engineering++%26%26++cloud+Developer)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm De-MBOU De-Dieu</h1>
 <h3 align="center"> Hey there! I'm De-Dieu MBOU, a passionate tech enthusiast with a focus on web development, DevOps, and software engineering. With a blend of creativity and technical expertise, I thrive on crafting innovative solutions and pushing the boundaries of technology.
 </h3>
 
